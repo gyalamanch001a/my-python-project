@@ -1,0 +1,6 @@
+asyncio
+aiohttp
+pandas
+loguru
+argparse
+dotenv
